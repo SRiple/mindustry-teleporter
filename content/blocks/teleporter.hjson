@@ -9,10 +9,8 @@ update: true
 instantTransfer: true
 unloadable: false
 solid: true
-health: 160
+health: 300
 
-requirements: [ "silicon/150"
-				"metaglass/750"
-                "phase-fabric/250"
-				"surge-alloy/250"
-				]
+requirements: [ 
+		"surge-alloy/100"
+		]
