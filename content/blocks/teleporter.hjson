@@ -1,10 +1,12 @@
 name: Teleporter
 research: mass-driver
 category: distribution
-size: 1
+configurable: true
+update: true
+instantTransfer: true
+unloadable: false
+solid: true
 health: 300
-reload: 1200
-range: 65535
 requirements: [ 
-		"surge-alloy/100"
-		]
+		"surge-alloy/250"
+			]
