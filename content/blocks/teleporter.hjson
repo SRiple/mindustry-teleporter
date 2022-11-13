@@ -1,12 +1,10 @@
-{
-"name": Teleporter
-"research": mass-driver
-"category": distribution
-"size": 1
-"health": 300
-"reload": 12000
-"range": 65535
+name: Teleporter
+research": mass-driver
+category": distribution
+size": 1
+health: 300
+reload: 1200
+range: 65535
 requirements: [ 
 		"surge-alloy/100"
 		]
-}
